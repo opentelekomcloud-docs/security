@@ -14,17 +14,16 @@ import os
 import sys
 
 extensions = [
-    'otc_api_ref',
     'otcdocstheme'
 ]
 
 html_theme = 'otcdocs'
 html_theme_options = {
-    "sidebar_mode": "toctree"
 }
 otcdocs_auto_name = False
-project = 'Dummy Service'  # FIXME
-otcdocs_repo_name = 'opentelekomcloud-docs/template'  # FIXME
+otcdocs_auto_version = False
+project = 'Security'
+otcdocs_repo_name = 'opentelekomcloud-docs/security'
 
 
 # If extensions (or modules to document with autodoc) are in another directory,
@@ -153,11 +152,11 @@ show_authors = False
 # html_file_suffix = ''
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'dummydoc'  # FIXME
+htmlhelp_basename = 'securitydoc'
 
 latex_documents = [
     ('index',
-     'api-ref-dummy.tex',  # FIXME
+     'doc-security.tex',
      u'%s API Reference' % project,
      u'OpenTelekomCloud', 'manual'),
 ]
