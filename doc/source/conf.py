@@ -10,18 +10,35 @@
 # License for the specific language governing permissions and limitations
 # under the License.
 #
+# !!!
+# This file is generated out of template in doc-exports repository.
+# Beware overwriting it locally.
+
 import os
 import sys
 
 extensions = [
-    'otcdocstheme'
+    'otcdocstheme',
+    'otc_sphinx_directives'
 ]
+
 otcdocs_auto_name = False
 otcdocs_auto_version = False
 
-project = 'Security Bulletin'
+project = 'Security'
 otcdocs_repo_name = 'opentelekomcloud-docs/security'
 # Those variables are required for edit/bug links
+
+# Those variables are needed for indexing into OpenSearch
+otcdocs_doc_environment = ''
+otcdocs_doc_link = ''
+otcdocs_doc_title = ''
+otcdocs_doc_type = ''
+otcdocs_service_category = 'other'
+otcdocs_service_title = 'Security'
+otcdocs_service_type = 'sec'
+otcdocs_search_environment = 'hc_de'
+otcdocs_search_url = "https://opensearch.eco.tsi-dev.otc-service.com/"
 
 # If extensions (or modules to document with autodoc) are in another directory,
 # add these directories to sys.path here. If the directory is relative to the
@@ -76,13 +93,13 @@ html_theme_options = {
 # The name for this set of Sphinx documents.  If None, it defaults to
 # "<project> v<release> documentation".
 
-html_title = "Security Information"
+html_title = "Security - Service Based View"
 
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
-# html_static_path = ['_static']
+html_static_path = ['_static']
 
 # Do not include sources into the rendered results
 html_copy_source = False
