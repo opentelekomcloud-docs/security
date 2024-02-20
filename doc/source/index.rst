@@ -70,6 +70,6 @@ Certifications
 
 Open Telekom Cloud is designed according to established standards,
 operated using defined methods, and holds many well-documented and
-verifiable certificates confirming independently its measures: For
+verifiable certificates confirming independently its measures. For
 detailed information: `Open Telekom Cloud Certifications
 <https://www.open-telekom-cloud.com/en/products-services/core-services/certifications>`_
