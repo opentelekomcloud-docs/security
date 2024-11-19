@@ -3,6 +3,7 @@ Open Telekom Cloud Security
 
 .. toctree::
    :maxdepth: 2
+   :hidden:
 
    shared.rst
 
@@ -40,18 +41,17 @@ Provider and its customers, who have access to a comprehensive
 repertoire of services to their disposal, forming a
 :doc:`Shared Responsibility <shared>`.
 
-- `Anti-DDoS                          <anti-ddos>`_
-- `Database Security Service          <database-security-service>`_
-- `Identity and Access Management     <identity-access-management>`_
-- `Web-Application-Firewall           <web-application-firewall>`_
-- `Cloud-Backup-Recovery              <cloud-backup-recovery>`_
-- `Elastic-Volume-Service             <elastic-volume-service>`_
-- `Storage-Disaster-Recovery          <storage-disaster-recovery-service>`_
-- `Volume-Backup-Service              <volume-backup-service>`_
-- `Status-Dashboard/Index             <status-dashboard>`_
-- `Key Management Service             <key-management-service>`_
-- `Web Application Firewall           <web-application-firewall>`_
-- `Dedicated Web Application Firewall <web-application-firewall-dedicated>`_
+- `Anti-DDoS <https://docs.otc.t-systems.com/anti-ddos/index.html>`_
+- `Database Security Service <https://docs.otc.t-systems.com/database-security-service/index.html>`_
+- `Identity and Access Management <https://docs.otc.t-systems.com/identity-access-management/index.html>`_
+- `Web-Application-Firewall <https://docs.otc.t-systems.com/web-application-firewall/index.html>`_
+- `Cloud-Backup-Recovery <https://docs.otc.t-systems.com/cloud-backup-recovery/index.html>`_
+- `Elastic-Volume-Service <https://docs.otc.t-systems.com/elastic-volume-service/index.html>`_
+- `Storage-Disaster-Recovery <https://docs.otc.t-systems.com/storage-disaster-recovery-service/index.html>`_
+- `Volume-Backup-Service <https://docs.otc.t-systems.com/volume-backup-service/index.html>`_
+- `Status-Dashboard/Index <https://status.otc-service.com/>`_
+- `Key Management Service <https://docs.otc.t-systems.com/key-management-service/index.html>`_
+- `Dedicated Web Application Firewall <https://docs.otc.t-systems.com/web-application-firewall-dedicated/index.html>`_
 
 A public database with detailed information on many known
 vulnerabilities can be found, for example, at NIST: `National
