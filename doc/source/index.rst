@@ -1,5 +1,5 @@
-Open Telekom Cloud Security
-===========================
+T Cloud Public Security
+=======================
 
 .. toctree::
    :maxdepth: 2
@@ -55,23 +55,28 @@ repertoire of services to their disposal, forming a
 - `Key Management Service <https://docs.otc.t-systems.com/key-management-service/index.html>`_
 - `Dedicated Web Application Firewall <https://docs.otc.t-systems.com/web-application-firewall-dedicated/index.html>`_
 
-A public database with detailed information on many known
-vulnerabilities can be found, for example, at NIST: `National
-Vulnerability Database <https://nvd.nist.gov/>`_
-
 Data Privacy
 ------------
 
 IT Security serves the protection of the most important cloud
-resource: your data!  Open Telekom Cloud ensures data privacy from
+resource: your data!  T Cloud Public ensures data privacy from
 Europeans for Europe: `Data Privacy
-<https://open-telekom-cloud.com/en/data-protection>`_
+<https://public.t-cloud.com/en/data-privacy>`_
 
 Certifications
 --------------
 
-Open Telekom Cloud is designed according to established standards,
+T Cloud Public is designed according to established standards,
 operated using defined methods, and holds many well-documented and
-verifiable certificates confirming independently its measures. For
-detailed information: `Open Telekom Cloud Certifications
-<https://www.open-telekom-cloud.com/en/products-services/core-services/certifications>`_
+verifiable certificates confirming independently its measures.
+For detailed information, see: `T Cloud Public Certifications
+<https://public.t-cloud.com/en/products-services/core-services/certifications>`_
+
+Vulnerabilities on T Cloud Public
+---------------------------------
+
+There is a `National Vulnerability Database <https://nvd.nist.gov/>`_ where
+current vulnerabilities are listed.
+
+Those which effect T Cloud Public are listed unter `Vulnerability section in
+the T Cloud Public Community Portal. <https://community.open-telekom-cloud.com/community?id=community_topic&sys_id=0600abe113db9190d15a246ea6744181>`_
