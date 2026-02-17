@@ -5,6 +5,8 @@ Open Telekom Cloud Security
    :maxdepth: 2
    :hidden:
 
+   National Vulnerability Database <https://nvd.nist.gov/> 
+   Vulnerabilities effecting T Cloud Public <https://community.open-telekom-cloud.com/community?id=community_topic&sys_id=0600abe113db9190d15a246ea6744181>
    shared.rst
 
 Security is the foundation of trust in Cloud Computing. The
@@ -17,16 +19,16 @@ Physical Security
 
 Our data centers operate within the EU, in two regions each with three
 AZs.  Regions: Germany and the Netherlands, built according to the
-Twin-Core principle.  More information: `Open Telekom Cloud Data
+Twin-Core principle.  More information: `T Cloud Public Data
 Centers
-<https://www.open-telekom-cloud.com/de/sicherheit/rechenzentren>`_
+<https://public.t-cloud.com/en/data-security-gdpr-cloud/data-centers>`_
 
 Clear rules compliance, certified according to the ISO 27000 family:
-`Open Telekom Cloud Certifications
-<https://www.open-telekom-cloud.com/en/products-services/core-services/certifications>`_
+`T Cloud Public Certifications
+<https://public.t-cloud.com/en/products-services/core-services/certifications>`_
 
 Overview on physical security: `Physical IT Security Blog Post
-<https://www.open-telekom-cloud.com/de/blog/vorteile/physische-it-sicherheit>`_
+<https://public.t-cloud.com/de/blog/vorteile/physische-it-sicherheit>`_
 
 IT Security
 -----------
@@ -36,7 +38,7 @@ Telekom, dedicated to the detection and prevention of attack patterns,
 providing continuous assessment of the security situation.
 
 Security is achieved through the trusted collaboration between
-Security Services provided by the Open Telekom Cloud as the Cloud
+Security Services provided by the T Cloud Public as the Cloud
 Provider and its customers, who have access to a comprehensive
 repertoire of services to their disposal, forming a
 :doc:`Shared Responsibility <shared>`.
