@@ -7,7 +7,6 @@ T Cloud Public Security
 
    National Vulnerability Database <https://nvd.nist.gov/> 
    Vulnerabilities effecting T Cloud Public <https://community.open-telekom-cloud.com/community?id=community_topic&sys_id=0600abe113db9190d15a246ea6744181>
-   shared.rst
 
 Security is the foundation of trust in Cloud Computing. The
 combination of physical resilience, industry-level IT security
@@ -41,7 +40,8 @@ Security is achieved through the trusted collaboration between
 Security Services provided by the T Cloud Public as the Cloud
 Provider and its customers, who have access to a comprehensive
 repertoire of services to their disposal, forming a
-:doc:`Shared Responsibility <shared>`.
+`Shared Responsibility
+<https://public.t-cloud.com/en/support/shared-responsibility>`_
 
 - `Anti-DDoS <https://docs.otc.t-systems.com/anti-ddos/index.html>`_
 - `Database Security Service <https://docs.otc.t-systems.com/database-security-service/index.html>`_
