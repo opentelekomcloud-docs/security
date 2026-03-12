@@ -7,6 +7,7 @@ T Cloud Public Security
 
    National Vulnerability Database <https://nvd.nist.gov/> 
    Vulnerabilities effecting T Cloud Public <https://community.open-telekom-cloud.com/community?id=community_topic&sys_id=0600abe113db9190d15a246ea6744181>
+   Shared Responsibility <https://public.t-cloud.com/en/support/shared-responsibility>
 
 Security is the foundation of trust in Cloud Computing. The
 combination of physical resilience, industry-level IT security
